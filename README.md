@@ -19,8 +19,8 @@ Professional developer passionate about building scalable web applications and e
 ---
 
 ### 📫 Reach Me
+- **Email:** [dev.rahulmaida@gmail.com](mailto:dev.rahulmaida@gmail.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- **Email:** [Your Email](mailto:your.email@example.com)
 
 ---
 
