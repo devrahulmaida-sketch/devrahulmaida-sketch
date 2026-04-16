@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Rahul Maida! 👋
 
-<!--
-**devrahulmaida-sketch/devrahulmaida-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer | Problem Solver | Tech Enthusiast
 
-Here are some ideas to get you started:
+Professional developer passionate about building scalable web applications and exploring new technologies. I focus on writing clean, efficient code and delivering high-quality user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+- **Languages:** JavaScript, TypeScript, Python, HTML/CSS
+- **Frameworks:** React, Node.js, Express
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📈 My Stats
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=devrahulmaida-sketch&show_icons=true&theme=radical)
+
+---
+
+### 📫 Reach Me
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
+- **Email:** [Your Email](mailto:your.email@example.com)
+
+---
+
+*"Coding the future, one line at a time."* 🎯
