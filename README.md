@@ -1,24 +1,34 @@
 # 👋 Hi there, I'm Rahul Maida
 
-### 🚀 Full Stack Developer | Building Scalable Web Solutions
+### 🎯 Future Cybersecurity Professional | White Hat Hacker in Making
 
-Passionate about crafting robust, scalable web applications with modern technologies. specializing in frontend and backend development with a focus on clean architecture and user experience.
+> *"Hackers are the ones who find vulnerabilities before they become headlines."*
+
+Currently a **11th grade student** preparing for **JEE Mains & Advanced** 📚. Passionate about cybersecurity, computer systems, and ethical hacking. On a journey to master the art of securing digital infrastructure.
 
 ---
 
-### 🛠️ Tech Stack
+### 🔐 Security & Development Skills
 
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 🎓 Education Journey
+
+| Stage | Status |
+|-------|--------|
+| JEE Mains | 📚 Preparing |
+| JEE Advanced | 🎯 Target |
+| College | 🏛️ Goal |
+| Cybersecurity | 🔐 Dream |
 
 ---
 
@@ -33,8 +43,16 @@ Passionate about crafting robust, scalable web applications with modern technolo
 
 [![Email](https://img.shields.io/badge/Email-dev.rahulmaida%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.rahulmaida@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Maida-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-maida-257a94402)
-[![GitHub](https://img.shields.io/badge/GitHub-devrahulmaida--sketch-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devrahulmaida-sketch)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-39FF852?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 
 ---
 
-*Building the future, one commit at a time.* 🚀
+### 🛡️ Learning & Practice Platforms
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-39FF852?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
+[![PortSwigger](https://img.shields.io/badge/PortSwigger%20Web%20Academy-FF6C37?style=for-the-badge&logo=safari&logoColor=white)](https://portswigger.net/web-security)
+
+---
+
+*"The quieter you become, the more you can hear."* 🕵️‍♂️
