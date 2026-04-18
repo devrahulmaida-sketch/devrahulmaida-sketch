@@ -1,32 +1,40 @@
-# Hi there, I'm Rahul Maida! 👋
+# 👋 Hi there, I'm Rahul Maida
 
-### 🚀 Full Stack Developer | Problem Solver | Tech Enthusiast
+### 🚀 Full Stack Developer | Building Scalable Web Solutions
 
-Professional developer passionate about building scalable web applications and exploring new technologies. I focus on writing clean, efficient code and delivering high-quality user experiences.
-
----
-
-### 🛠️ Languages & Tools
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Asana](https://img.shields.io/badge/Asana-%23273347.svg?style=for-the-badge&logo=asana&logoColor=white)
+Passionate about crafting robust, scalable web applications with modern technologies. specializing in frontend and backend development with a focus on clean architecture and user experience.
 
 ---
 
-### 📈 My Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=devrahulmaida-sketch&show_icons=true&theme=radical)
+### 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### 📋 Project Roadmap
-Track my current professional goals and project progress here: [🚀 Professional Project Roadmap (Notion)](https://www.notion.so/3448ccbbeff081d7ae25ce2c1056fbf0)
+### 📊 GitHub Stats
+
+[![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devrahulmaida-sketch&hide_border=true&count_private=true&show_icons=true&theme=radical)](https://github.com/devrahulmaida-sketch)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrahulmaida-sketch&hide_border=true&layout=compact&theme=radical)](https://github.com/devrahulmaida-sketch)
 
 ---
 
-### 📫 Reach Me
-- **Email:** [dev.rahulmaida@gmail.com](mailto:dev.rahulmaida@gmail.com)
-- **LinkedIn:** [Rahul Maida](https://www.linkedin.com/in/rahul-maida-257a94402)
+### 🔗 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-dev.rahulmaida%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.rahulmaida@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Maida-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-maida-257a94402)
+[![GitHub](https://img.shields.io/badge/GitHub-devrahulmaida--sketch-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devrahulmaida-sketch)
 
 ---
 
-*"Coding the future, one line at a time."* 🎯
+*Building the future, one commit at a time.* 🚀
