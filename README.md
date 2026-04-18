@@ -40,6 +40,7 @@ Currently a **11th grade student** preparing for **JEE Mains & Advanced** 📚. 
 ---
 
 ### 🔗 Connect With Me
+[![Twitter](https://img.shields.io/badge/Twitter-@dev_RahulMaida-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/dev_RahulMaida)
 
 [![Email](https://img.shields.io/badge/Email-dev.rahulmaida%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.rahulmaida@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Maida-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-maida-257a94402)
